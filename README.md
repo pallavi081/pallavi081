@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👩‍💻 Pallavi Shrivastav – Projects Portfolio
+# 👩‍💻 Pallavi Kumari – Projects Portfolio
 
 Welcome to my GitHub!
 I am a B.Tech student passionate about building **privacy-focused** and **user-friendly** applications. Below are my major projects and work.
