@@ -12,77 +12,155 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
 
-# 👩‍💻 Pallavi Kumari – Projects Portfolio
 
-Welcome to my GitHub!
-I am a B.Tech student passionate about building **privacy-focused** and **user-friendly** applications. Below are my major projects and work.
+<h1 align="center">Hi 👋, I'm Pallavi Kumari</h1>
+<h3 align="center">CSE Student | Frontend Developer | Problem Solver</h3>
 
----
-
-## 🚀 Projects
-
-### 🔐 End2End Chat – Privacy First Chat Application
-
-**About Project:**
-End2End Chat is a real-time messaging application designed with one core principle:
-
-> **No signup • No tracking • No message storage**
-
-Most chat apps store user data on centralized servers. This project removes that gap by enabling secure communication without collecting personal information.
-
-**Key Features**
-
-* ✅ No registration required
-* ✅ True end-to-end encrypted communication
-* ✅ Anonymous chat rooms
-* ✅ Real-time message delivery
-* ✅ Clean and simple UI
-* ✅ No database storage of messages
-
-**Tech Stack**
-
-* Node.js
-* Socket.io
-* HTML / CSS / JavaScript
+<p align="center">
+  <a href="https://github.com/pallavi081">
+    <img src="https://komarev.com/ghpvc/?username=pallavi081&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-### ✍ Writer App – Share Your Thoughts
+## 📊 GitHub Stats
 
-**About Project:**
-A minimal platform where users can write and share their thoughts publicly without complexity. Focused on creativity rather than social pressure.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pallavi081&show_icons=true&theme=tokyonight" />
+</p>
 
-**Key Features**
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi081&theme=tokyonight" />
+</p>
 
-* ✅ Simple writing interface
-* ✅ Publish thoughts instantly
-* ✅ Clean reading mode
-* ✅ Responsive design
-* ✅ No unnecessary distractions
-
-**Tech Stack**
-
-* Frontend: HTML, CSS, JavaScript
-* Backend: Node.js
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavi081&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🛠 Skills
+## 🚀 About Me
 
-* Programming: Java, Python, JavaScript
-* Web: HTML, CSS, Node.js
-* Tools: Git, GitHub, VS Code
-* Concepts: Operating Systems, Networking, OOP
+* 🎓 B.Tech CSE (2022–2026)
+* 💡 Building privacy-first & user-friendly applications
+* 🎯 Focus: Web Dev, Logic Building, UI/UX
+* ✨ Believe in: **Simplicity → Performance → Impact**
 
 ---
 
-## 📂 How to Use My Projects
+# 💼 Featured Projects
+
+---
+
+## 🐍 Snake Race – Modern Game
+
+**About**
+A battle-style modern snake game built with React & TypeScript.
+
+### Features
+
+* ✔ Battle royale gameplay
+* ✔ RPG style progression
+* ✔ Score & ranking system
+* ✔ Smooth animations
+* ✔ Keyboard controls
+* ✔ Mobile responsive
+* ✔ Pause / restart mode
+* ✔ Optimized rendering
+* ✔ Clean component design
+
+**Tech:** React • TypeScript • Vite
+
+---
+
+## 💰 Crowdfunding Platform
+
+**About**
+Platform to create campaigns and collect donations transparently.
+
+### Features
+
+* ✔ Create fundraising campaigns
+* ✔ Real-time donation counter
+* ✔ Progress tracking
+* ✔ Form validation
+* ✔ Category listing
+* ✔ Shareable links
+* ✔ Responsive dashboard
+* ✔ Secure inputs
+* ✔ Clean UI
+
+**Tech:** JavaScript • HTML • CSS
+
+---
+
+## 🤖 Pallavi AI Project
+
+**About**
+Interface for AI-style interaction and automation experiments.
+
+### Features
+
+* ✔ Interactive UI
+* ✔ Dynamic rendering
+* ✔ User input handling
+* ✔ Accessibility friendly
+* ✔ Lightweight design
+* ✔ Component structure
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+## 🏋️ Gym Website
+
+### Features
+
+* ✔ Hero section with CTA
+* ✔ Membership plans
+* ✔ Trainer showcase
+* ✔ Contact form
+* ✔ Animations
+* ✔ Mobile friendly
+* ✔ SEO structure
+
+**Tech:** HTML • CSS
+
+---
+
+# 🛠 Skills
+
+**Languages:**
+Java • Python • JavaScript • TypeScript
+
+**Web:**
+HTML • CSS • React • Node.js Basics
+
+**Tools:**
+Git • GitHub • VS Code
+
+**Concepts:**
+OOP • OS • Networking • Responsive Design
+
+---
+
+# 🎯 Learning & Impact
+
+* Game logic & state management
+* Clean UI architecture
+* Form handling & validation
+* Real-world problem solving
+* Performance optimization
+
+---
+
+# 🤝 How to Use
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/pallavi081/repo-name.git
 cd repo-name
 npm install
 npm start
@@ -90,26 +168,12 @@ npm start
 
 ---
 
-## 🎯 Goals of My Work
+# 📫 Connect With Me
 
-* Build privacy-respecting applications
-* Create simple solutions for real problems
-* Write clean and understandable code
-* Learn and grow through open source
-
----
-
-## 👩‍🎓 About Me
-
-* 🎓 B.Tech (2022-2026)
-* 💡 Interested in OS, Networking & Backend
-* 📍 Bareilly, Uttar Pradesh
-
-**Connect with me**
-
-* GitHub: [https://github.com/your-username](https://github.com/pallavi081/)
-* LinkedIn: https://www.linkedin.com/in/pallavi-kumari-03b1112b0/
+* 💼 LinkedIn: [https://www.linkedin.com/in/pallavi-kumari-03b1112b0/](https://www.linkedin.com/in/pallavi-kumari-03b1112b0/)
+* 💻 GitHub: [https://github.com/pallavi081](https://github.com/pallavi081)
+* ✉ Email: [shripallavi3108@gmail.com](mailto:shripallavi3108@gmail.com)
 
 ---
 
-### ⭐ If you find my projects useful, consider giving them a star!
+⭐ **If you like my work, please give a star to my repositories!**
